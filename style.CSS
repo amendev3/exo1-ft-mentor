@@ -110,7 +110,7 @@ ol li::marker {
   }
   .page img {
     display: block;               /* évite espace inline */
-    width: calc(100% + 20px);     /* 2 * padding (10px) */
+    width: calc(100% + 40px);     /* 2 * padding (10px) */
     margin: -20px 0 0 -20px;      /* compense le padding haut et gauche */
     border-radius: 0;             /* ajustez si besoin */
     height: 200px;
